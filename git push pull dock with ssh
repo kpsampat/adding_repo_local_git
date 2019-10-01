@@ -15,3 +15,13 @@ git push origin master
 git push origin master -f
 git pull origin master 
 
+
+
+
+
+branching :
+git checkout -b branchname
+git commit -a -m 'commit message of branch'
+git status
+git checkout msater
+ git branch -d branchname (delete branch)
