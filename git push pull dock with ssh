@@ -27,3 +27,6 @@ git commit -a -m 'commit message of branch'
 git status
 git checkout msater
  git branch -d branchname (delete branch)
+ 
+ 
+ https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
